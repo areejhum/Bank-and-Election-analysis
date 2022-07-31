@@ -6,7 +6,7 @@ In this two projects, illestrate the financial records by analyzing bank data, t
 
 
 ### Before You Begin
-The repository conyain tow dataset analysing folder and both includes:
+The repository contain two datasets, analysing folder and both includes:
   * A file called `main.py`. This will be the main script to run for each analysis.
   * A "Resources" folder that contains the CSV files.
   * An "analysis" folder that contains text file that has the results from analysis.
