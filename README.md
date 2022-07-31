@@ -13,7 +13,7 @@ The repository conyain tow dataset analysing folder and both includes:
 
 1## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+![](Images/revenue-per-lead.png)
 
 *This project analyzing the financial records of bank company, using set of financial data called [budget_data.csv](PyBank/resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
