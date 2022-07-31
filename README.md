@@ -61,7 +61,7 @@ The repository contain two datasets, analysing folder and both includes:
 
   * The winner of the election based on popular vote.
 
-* The analysis should look similar to the one below:
+* The analysis looks below:
 
   ```text
   Election Results
