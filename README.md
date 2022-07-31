@@ -3,30 +3,21 @@ In this two projects, illestrate the financial records by analyzing bank data, t
 
 
 
-## Background
-
-Well... you've made it!
 
 
 ### Before You Begin
+The repository conyain tow dataset analysing folder and both includes:
+  * A file called `main.py`. This will be the main script to run for each analysis.
+  * A "Resources" folder that contains the CSV files.
+  * An "analysis" folder that contains text file that has the results from analysis.
 
-
-
-* Inside of each folder that you just created, add the following:
-
-  * A new file called `main.py`. This will be the main script to run for each analysis.
-  * A "Resources" folder that contains the CSV files you used. Make sure your script has the correct path to the CSV file.
-  * An "analysis" folder that contains your text file that has the results from your analysis.
-
-* Push the above changes to GitHub or GitLab.
-
-## PyBank
+1## PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+*This project analyzing the financial records of bank company, using set of financial data called [budget_data.csv](PyBank/resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
-* Your task is to create a Python script that analyzes the records to calculate each of the following:
+* The programing language that I used is a Python script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
 
@@ -38,7 +29,7 @@ Well... you've made it!
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+* The analysis looks below:
 
   ```text
   Financial Analysis
@@ -50,9 +41,9 @@ Well... you've made it!
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+* At the end,the summary analys to the terminal and export a text file with the results.
 
-## PyPoll
+2## PyPoll
 
 ![Vote Counting](Images/Vote_counting.png)
 
