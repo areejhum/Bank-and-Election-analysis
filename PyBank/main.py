@@ -4,7 +4,7 @@ import csv
 
 
 #Creating an object out of the CSV file
-budget_data = os.path.join("PyBank", "Resources", "budget_data.csv")
+budget_data = os.path.join("PyBank", "resources", "budget_data.csv")
 
 
 
