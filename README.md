@@ -1,4 +1,4 @@
-# python-Projects:
+# Python-Projects:
 In this two projects, illestrate the financial records by analyzing bank data, theremore, created a Python script for analyzing financial records and election data.
 
 
